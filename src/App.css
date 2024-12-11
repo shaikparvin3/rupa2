@@ -1,0 +1,39 @@
+.parent {
+  width: 100vw;
+}
+
+.parent1 {
+  border: 2px solid red;
+  margin-left: auto;
+  margin-right: auto; /* Horizontally centers the parent2 div */
+  
+}
+.movie-poster {
+  margin: 10px;
+  width: 100px;
+}
+
+.parent2 {
+  border: 2px solid red;
+  
+  margin-left: auto;
+  margin-right: auto; /* Horizontally centers the parent2 div */
+  
+}
+
+.movie-poster2 {
+  margin: 10px;
+  width: 100px;
+}
+h1 {
+  text-align: center;
+  border:2px solid orange;
+  background-color: orange;
+}
+.parent{
+  display:flex;
+  justify-content:center;
+  flex-direction:column;
+  align-items:center
+
+}

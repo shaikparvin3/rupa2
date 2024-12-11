@@ -1,0 +1,64 @@
+.box1{
+    display:flex;
+    
+    
+    align-items: center;
+    background-color: gray;
+}
+.box1 h6{
+    margin-right: 60px;
+}
+.box1 button{
+    margin:5px;
+}
+.box2{
+    display:flex;
+    
+    
+    align-items: center;
+    background-color: gray;
+}
+.box2 h6{
+    margin-right: 60px;
+}
+.box2 button{
+    margin:5px;
+}
+.box3{
+    display:flex;
+    
+    
+    align-items: center;
+    background-color: gray;
+}
+.box3 h6{
+    margin-right: 60px;
+}
+.box3 button{
+    margin:5px;
+}
+.button button{
+    border: 2px solid;
+    background-color: black;
+    color: white;
+    
+}
+.button{
+    
+    margin-right: 200px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.container2{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    flex-direction:column ;
+    border:2px solid;
+    margin-top:40px;
+}
+.input{
+    border: 2px solid;
+    margin-right: 100px;
+}
