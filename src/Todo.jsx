@@ -2,7 +2,7 @@
  
  export default function app() {
   const title = <h1>Todo list</h1>;
-  const line = <hr/>;
+  const line = <hr></hr>;
   const input = <input type="text" placeholder="add item ..." className='input' />;
   const add = <div className='button'><button>add</button> </div>;
   const box1 = (
